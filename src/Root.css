@@ -1,0 +1,44 @@
+body,
+html,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.root {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.root .left {
+  width: 30%;
+  height: 100%;
+  float: left;
+  margin: 0px;
+  padding: 0px;
+}
+
+.root .content {
+  width: 70%;
+  height: 100%;
+  float: left;
+  margin: 0px;
+  padding: 0px;
+}
+
+.root .left .menu {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+.size-full {
+  width: 100%;
+  height: 100%;
+}
