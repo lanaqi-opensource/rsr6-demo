@@ -10,8 +10,8 @@
     "format": "biome format --write"
   },
   "dependencies": {
-    "@lanaqi/rsr": "^0.0.1",
-    "@lanaqi/rsr-nprogress": "^0.0.1",
+    "@lanaqi/rsr": "^0.0.2",
+    "@lanaqi/rsr-nprogress": "^0.0.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.5.3"
